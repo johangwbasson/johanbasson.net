@@ -1,17 +1,14 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://johanbasson.net
 
 languageCode: en-us
 title: "Johan Basson Profile and Blog"
 theme: "toha"
 
-# Manage languages
-# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
     languageName: English
     weight: 1
 
-# Control TOC depth
 markup:
   tableOfContents:
     startLevel: 2
@@ -38,5 +35,12 @@ params:
   newsletter:
     enable: false
 
-#permalinks:
-#  posts: /:year/:month/:title/
+  features:
+    analytics:
+      enabled: true
+      goatCounter:
+        code: johanbasson
+      counterDev:
+        id: johangwbasson@gmail.com
+      google:
+        id: UA-122321624-2
