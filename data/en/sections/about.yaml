@@ -1,0 +1,44 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Developer
+# your company information
+company:
+  name: Cibecs
+  url: "https://cibecs.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I an software engineer with 20 years of working experience building Java and Web applications.'
+
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/johangwbasson"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/johangwbasson/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Problem solving
+  percentage: 90
+  color: green
+- name: Communication
+  percentage: 70
+  color: blue
+- name: Team Work
+  percentage: 70
+  color: orange

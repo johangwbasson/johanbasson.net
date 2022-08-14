@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Cibecs.
+    url: "https://cibecs.com"
+    location: Johannesburg, South Africa
+    # company overview
+    overview: A powerful all-in-one data backup, protection & security software suite for always-on, reliable data protection.
+  positions:
+  - designation: Senior Software Developer
+    start: December 2011
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop and build the Cibecs Endpoint Cloud product using microservices architecture and CQRS.
+    - Implemented various microservices using Spring Boot and Axon (Java and Kotlin, Docker, Azure)
+    - Helped build the web frontend for the product using Aurelia (Typescript, Html, Css, Rest, Websockets)
+    - Help build a product called Fastbank that does bank integration into SAP business.
+    - Implemented rules engine for Fastbank which matches incoming transactions against transactions in SAP.
+    - Designed and build automated licensing system which integrates into Salesforce which issues licenses based on customer information in Salesforce (Spring Boot, Mysql)
+    - Implemented various command line tools for data cleanup and agent upgrade (Kotlin, Java)
+
+- company:
+    name: Marketel
+    location: Johannesburg, South Africa
+  positions:
+  - designation: Lead Developer
+    start: March 2011
+    end: December 2011
+    responsibilities:
+    - Design and build a web based shopping system with rewards program. (Spring, Hibernate)
+
+- company:
+    name: Bhyve Technologies
+    location: Johannesburg, South Africa
+  positions:
+  - designation: Lead Developer
+    start: November 2006
+    end: March 2011
+    responsibilities:
+    - Design and build the backend and web frontend of the Bhyve Application Suite using Spring, Hibernate, MySQL, Rest, Html, Css, JQuery
+    - Design and implement synchronization protocol between the server and a j2me (mobile) client.
+    - Design and implement of Instant Messenger in J2ME

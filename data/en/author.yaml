@@ -1,0 +1,13 @@
+name: "Johan Basson"
+nickname: "Johan"
+greeting: "Hi, I am"
+image: "images/author/johan.jpg"
+
+contactInfo:
+  email: "johangwbasson@gmail.com"
+  phone: "+27787958927"
+  linkedin: johangwbasson
+  github: johangwbasson
+
+summary:
+  - I am a Java & Web Software Developer

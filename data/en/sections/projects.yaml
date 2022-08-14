@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Endpoint Cloud
+  logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "April 2016 - Present"
+  url: "https://cibecs.com"
+  summary: A powerful all-in-one data backup, protection & security software suite for always-on, reliable data protection..
+  tags: ["professional", "java", "cloud", "cqrs", "microservices", "postgres", "spring"]
+
+- name: Fastbank
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2020 - August 2020"
+  url: "https://fastbank.io/"
+  summary: Bank Integration for SAP Business One
+  tags: ["professional", "spring","javascript", "java"]
+
+- name: Desktop search
+  role: Developer
+  repo: https://github.com/johangwbasson/desktop-search
+  summary: Desktop search, indexes local directory and provides a web interface to search using contents
+  tags: ["hobby", "java", "lucene"]
