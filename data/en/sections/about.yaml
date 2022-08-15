@@ -18,7 +18,8 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I an software engineer with 20 years of working experience building Java and Web applications.'
+# summary: 'I an software engineer with 20 years of working experience building Java and Web applications.'
+summary: 'Software Developer with 20+ years of experience in computer science, building full stack and cloud based systems. With and aptitude for building Java back-ends and Web front-ends.'
 
 # give as many as you want. use font-awesome for the icons.
 socialLinks:

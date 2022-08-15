@@ -12,28 +12,26 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
  - name: Java
-   summary: "Using as the main language for professional development for backends. Capable of writing scalable, testable and maintainable applications"
+   summary: "Main programming language used for professional development for back-ends and microservices."
    logo: /images/sections/skills/java.png
-   url: "https://www.oracle.com/za/java"
  - name: Kotlin
    logo: /images/sections/skills/kotlin.png
-   summary: "Using as a secondary language for professional development for backends. Capable of writing scalable, testable and maintainable applications"
-   url: "https://kotlinlang.org"
+   summary: "Using as a secondary language for professional development for back-ends and microservices."
  - name: Typescript
-   summary: "Using as a main language for professional development for web frontend."
+   summary: "Using as a main language for professional development for web front-end."
    logo: /images/sections/skills/typescript.svg
-   url: "https://www.typescriptlang.org/"
+  #  url: "https://www.typescriptlang.org/"
  - name: Javascript
-   summary: "Using as a secondary language for professional development for web frontend."
-   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+   summary: "Using as a secondary language for professional development for web front-end."
+  #  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
    logo: /images/sections/skills/javascript.png
  - name: Spring & Spring Boot
-   summary: "Primary used for building servers, Rest Api's and microservices"
-   url: https://spring.io/
+   summary: "Primary toolkit used for building servers, REST Api's and microservices"
+  #  url: https://spring.io/
    logo: /images/sections/skills/spring.svg
  - name: Docker
    logo: /images/sections/skills/docker.svg
-   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+   summary: "Package servers and microservices as docker containers for deployment in the cloud."
    url: "https://www.docker.com/"
  - name: Cloud Computing
    logo: /images/sections/skills/cloud.png
@@ -55,4 +53,7 @@ skills:
    summary: "Used in building performant microservices."
  - name: Microservices
    logo: /images/sections/skills/microservices.png
-   summary: "Building microservices to build performant applications"
+   summary: "Building small services which can be scaled horizontally"
+ - name: HTML & CSS
+   summary: "Building web front-ends using web technologies"
+   logo: /images/sections/skills/html.png

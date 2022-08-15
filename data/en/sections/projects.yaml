@@ -14,8 +14,6 @@ buttons:
   filter: "all"
 - name: Professional
   filter: "professional"
-- name: Academic
-  filter: "academic"
 - name: Hobby
   filter: "hobby"
 
