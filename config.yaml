@@ -27,6 +27,11 @@ params:
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
+  darkMode:
+      enable: true
+      provider: darkreader
+      default: system
+
   # specify whether you want to show Table of Contents in reading page
   enableTOC: false
 
@@ -43,4 +48,4 @@ params:
       counterDev:
         id: johangwbasson@gmail.com
       google:
-        id: UA-122321624-2
+        id: G-LD225NRQJ0
