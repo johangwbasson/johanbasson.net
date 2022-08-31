@@ -3,7 +3,7 @@ title: "Upgrading Spring Java application from Java 8 to Java 11"
 date: 2022-08-31T10:57:03+02:00
 hero: java.png
 description: Upgrading Spring Java application from Java 8 to Java 11
-draft: true
+draft: false
 tags: ["Spring", "Java"]
 categories: ["Java"]
 ---
