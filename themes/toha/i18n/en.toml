@@ -20,6 +20,9 @@ other = "at"
 [resume]
 other = "My resume"
 
+[cv]
+other = "Curriculum Vitae"
+
 [navigation]
 other = "Navigation"
 

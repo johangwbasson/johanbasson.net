@@ -16,6 +16,7 @@ company:
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
+cv: "files/cv.pdf"
 
 # a summary about you
 # summary: 'I an software engineer with 20 years of working experience building Java and Web applications.'
