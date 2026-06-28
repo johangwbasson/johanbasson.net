@@ -1,0 +1,96 @@
+baseURL = "https://johanbasson.net/"
+languageCode = "en-us"
+title = "Johan Basson"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+author = "Johan Basson"
+description = "Senior Backend Software Engineer specialising in Kotlin, Java and Functional Programming."
+
+defaultTheme = "dark"
+disableThemeToggle = false
+
+ShowReadingTime = true
+ShowShareButtons = false
+ShowCodeCopyButtons = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowToc = false
+
+ShowRssButtonInSectionTermList = true
+
+# Home page
+[params.profileMode]
+enabled = true
+title = "Johan Basson"
+
+subtitle = """
+Senior Backend Software Engineer
+
+Building reliable backend systems with Kotlin, Java and Functional Programming.
+"""
+
+imageUrl = "images/profile.jpg"
+imageWidth = 180
+imageHeight = 180
+imageTitle = "Johan Basson"
+
+[[params.profileMode.buttons]]
+name = "Projects"
+url = "/projects"
+
+[[params.profileMode.buttons]]
+name = "Articles"
+url = "/posts"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/johangwbasson"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/YOUR-LINKEDIN"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:you@example.com"
+
+[markup]
+  [markup.highlight]
+    style = "github-dark"
+    noClasses = false
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 20
+
+[[menu.main]]
+identifier = "articles"
+name = "Articles"
+url = "/posts/"
+weight = 30
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 40

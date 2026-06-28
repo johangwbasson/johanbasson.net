@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Http4k on Johan Basson</title>
+    <link>http://localhost:1313/tags/http4k/</link>
+    <description>Recent content in Http4k on Johan Basson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2026 11:30:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/http4k/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Chose http4k Instead of Spring Boot</title>
+      <link>http://localhost:1313/posts/why-i-chose-http4k/</link>
+      <pubDate>Sat, 20 Jun 2026 11:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/why-i-chose-http4k/</guid>
+      <description>Why I chose http4k over Spring Boot for my latest Kotlin project, and the trade-offs I considered.</description>
+    </item>
+  </channel>
+</rss>

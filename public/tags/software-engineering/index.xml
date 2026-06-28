@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Engineering on Johan Basson</title>
+    <link>http://localhost:1313/tags/software-engineering/</link>
+    <description>Recent content in Software Engineering on Johan Basson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2025 20:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Should Read Like Documentation</title>
+      <link>http://localhost:1313/posts/code-should-read-like-doc/</link>
+      <pubDate>Tue, 24 Jun 2025 20:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/code-should-read-like-doc/</guid>
+      <description>One of the principles that has shaped how I write software over the years is that code should explain itself.</description>
+    </item>
+  </channel>
+</rss>
