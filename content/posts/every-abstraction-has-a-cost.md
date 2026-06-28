@@ -1,6 +1,6 @@
 +++
 title = "Every Abstraction Has a Cost"
-date = 2025-06-28T20:30:00+02:00
+date = 2025-06-27T20:30:00+02:00
 draft = false
 
 summary = "Abstractions make software easier to change, but they also make it harder to understand. The challenge is knowing when they're worth the cost."

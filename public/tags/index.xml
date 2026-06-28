@@ -36,5 +36,19 @@
       <guid>http://localhost:1313/tags/spring-boot/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/tags/software-engineering/</link>
+      <pubDate>Fri, 27 Jun 2025 20:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hexagonal Architecture</title>
+      <link>http://localhost:1313/tags/hexagonal-architecture/</link>
+      <pubDate>Tue, 13 May 2025 21:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/hexagonal-architecture/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

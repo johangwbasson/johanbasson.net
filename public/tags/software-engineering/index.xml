@@ -6,8 +6,15 @@
     <description>Recent content in Software Engineering on Johan Basson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jun 2025 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 20:30:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Every Abstraction Has a Cost</title>
+      <link>http://localhost:1313/posts/every-abstraction-has-a-cost/</link>
+      <pubDate>Fri, 27 Jun 2025 20:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/every-abstraction-has-a-cost/</guid>
+      <description>Abstractions make software easier to change, but they also make it harder to understand. The challenge is knowing when they&amp;rsquo;re worth the cost.</description>
+    </item>
     <item>
       <title>Code Should Read Like Documentation</title>
       <link>http://localhost:1313/posts/code-should-read-like-doc/</link>

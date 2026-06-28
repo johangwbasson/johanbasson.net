@@ -33,6 +33,23 @@
     <loc>http://localhost:1313/posts/why-i-chose-http4k/</loc>
     <lastmod>2026-06-20T11:30:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/every-abstraction-has-a-cost/</loc>
+    <lastmod>2025-06-27T20:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
+    <lastmod>2025-06-27T20:30:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/code-should-read-like-doc/</loc>
+    <lastmod>2025-06-24T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hexagonal-architecture/</loc>
+    <lastmod>2025-05-13T21:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-i-do-not-like-generic-repositories/</loc>
+    <lastmod>2025-05-13T21:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
   </url>
 </urlset>

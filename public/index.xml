@@ -50,5 +50,38 @@
       <guid>http://localhost:1313/posts/why-i-chose-http4k/</guid>
       <description>Why I chose http4k over Spring Boot for my latest Kotlin project, and the trade-offs I considered.</description>
     </item>
+    <item>
+      <title>Every Abstraction Has a Cost</title>
+      <link>http://localhost:1313/posts/every-abstraction-has-a-cost/</link>
+      <pubDate>Fri, 27 Jun 2025 20:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/every-abstraction-has-a-cost/</guid>
+      <description>Abstractions make software easier to change, but they also make it harder to understand. The challenge is knowing when they&amp;rsquo;re worth the cost.</description>
+    </item>
+    <item>
+      <title>Code Should Read Like Documentation</title>
+      <link>http://localhost:1313/posts/code-should-read-like-doc/</link>
+      <pubDate>Tue, 24 Jun 2025 20:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/code-should-read-like-doc/</guid>
+      <description>One of the principles that has shaped how I write software over the years is that code should explain itself.</description>
+    </item>
+    <item>
+      <title>Why I Don&#39;t Like Generic Repository Interfaces</title>
+      <link>http://localhost:1313/posts/why-i-do-not-like-generic-repositories/</link>
+      <pubDate>Tue, 13 May 2025 21:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/why-i-do-not-like-generic-repositories/</guid>
+      <description>I used to create a repository interface for every aggregate. Over time I found a simpler approach that makes dependencies more explicit and business use cases easier to understand.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m passionate about building software that is simple, maintainable and enjoyable to work on. These are some of the personal projects I&amp;rsquo;m currently investing my time in.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;arventis&#34;&gt;Arventis&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;A knowledge management platform built with Kotlin and PostgreSQL.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Arventis started as a way to organise my own technical notes, but has grown into an exploration of search, clean architecture, background processing and functional programming.&lt;/p&gt;
+&lt;p&gt;Rather than chasing features, I&amp;rsquo;m using the project to experiment with software design decisions and to better understand how simple systems evolve over time.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
