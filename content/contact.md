@@ -18,7 +18,7 @@ Whether you have a question, would like to collaborate on a project, or simply w
   https://www.linkedin.com/in/johangwbasson
 
 - **Email**  
-  johan.basson@protonmail.com
+  johangwbasson@gmail.com
 
 ## Open Source
 
