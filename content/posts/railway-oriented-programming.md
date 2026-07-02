@@ -42,11 +42,6 @@ showBreadcrumbs: true
 series:
   - Functional Kotlin
 
-cover:
-  image: "cover.webp"
-  alt: "Railway-Oriented Programming illustrated as two railway tracks representing success and failure."
-  caption: "Making success and failure explicit."
-
 ---
 
 > **How functional error handling can simplify your Kotlin business logic**
